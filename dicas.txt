@@ -1,0 +1,1 @@
+para rodar o app é necessário abrir o terminal e depois digitar "npm run dev" ele vai te disponibilizar um local host e você irá clicar e usar o app web
